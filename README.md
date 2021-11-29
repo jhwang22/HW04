@@ -8,7 +8,7 @@ Here's proof that my bot is a good bot. Look at it go.
 <img width="1222" alt="Screen Shot 2021-11-28 at 6 09 14 PM" src="https://user-images.githubusercontent.com/78510953/143798160-a2c87fdb-5b96-4238-bc82-7786fac2a50b.png">
 
 
-What you see here is also my favorite thread, because my bot aptly responds to a comment talking good things about Joe Biden. My bot is putting that other bot in its place. Plus, we all know that Joe Biden isn't ever going to give out free Goldfish crackers to everyone. 
+What you see here is also my favorite [thread](https://old.reddit.com/r/BotTown2/comments/r0yi9l/main_discussion_thread/), because my bot aptly responds to a comment talking good things about Joe Biden. My bot is putting that other bot in its place. Plus, we all know that Joe Biden isn't ever going to give out free Goldfish crackers to everyone. 
 
 
 
