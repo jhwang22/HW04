@@ -35,7 +35,7 @@ Comment_upvotes= 60
 Comment_downvotes= 67
 ```
 Specifically, I had my bot upvote comments and submission mentioning Trump. I also had it downvote comments and submissions mentioning Kamala Harris and Joe Biden. 
-
+I also used TextBlob for this task.
 
 
 # Grading 
