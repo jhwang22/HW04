@@ -15,27 +15,19 @@ What you see here is also my favorite thread, because my bot aptly responds to a
 Moving on, here's the output for my code, aka the comment count:
 ```
 joannahwang@Joannas-MacBook-Pro code4bot % python3 bot_counter.py --username=anotha_bot   
-len(comments)= 1000                      
-len(top_level_comments)= 105
-len(replies)= 895
-len(valid_top_level_comments)= 105
-len(not_self_replies)= 895
-len(valid_replies)= 895
+len(comments)= 1000                    
+len(top_level_comments)= 100
+len(replies)= 900
+len(valid_top_level_comments)= 0
+len(not_self_replies)= 887
+len(valid_replies)= 708
 ========================================
-valid_comments= 1000
+valid_comments= 708
 ========================================
 NOTE: the number valid_comments is what will be used to determine your extra credit 
 ```
 
-Lastly, here's my output for the file where I got my bot to upvote and downvote comments and submissions.
-```
-Submission_upvotes= 501
-Submission_downvotes= 322
-Comment_upvotes= 60
-Comment_downvotes= 67
-```
-Specifically, I had my bot upvote comments and submission mentioning Trump. I also had it downvote comments and submissions mentioning Kamala Harris and Joe Biden. 
-I also used TextBlob for this task.
+Mike, please note that you may get different numbers when running ```bot_counter.py```. I reached these numbers on 11/25 (I have a screenshot) and stopped running my bot for a bit before trying again in hopes of reaching 1000 comments. Unfortunately, that never happened. Now, I encounter weird errors, primarily 429 HTTP responses. 
 
 
 # Grading 
@@ -43,8 +35,7 @@ I also used TextBlob for this task.
 2. This repo - 2 pts
 3. Got 100 valid comments - 2 pts
 4. Got 500 valid comments - 2 pts
-5. Got 1000 valid comments - 2 pts
 6. Made my bot reply to the most highly upvoted comment in a thread that it hasn't already replied to. You can see my code for this task by scrolling down to the      very bottom of my ```bot.py``` file. - 2 pts
-7. Got my bot to upvote / downvote comments and submissions. See the ```bot_voting.py``` file. - 4 pts 
+7. Got my bot to upvote / downvote comments and submissions using TextBlob. See the ```bot_voting.py``` file. - 4 pts 
 
-Based on the info above, I believe my score should be a **32/30**.
+Based on the info above, I believe my score should be a **30/30**.
