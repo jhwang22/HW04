@@ -10,8 +10,6 @@ Here's proof that my bot is a good bot. Look at it go.
 Here's the output for my code, aka the comment count:
 
 
-<img width="677" alt="Screen Shot 2021-11-25 at 10 11 38 AM" src="https://user-images.githubusercontent.com/78510953/143792826-395d7f10-5e9c-4f56-86eb-c9286cf26147.png">
-
 
 
 
